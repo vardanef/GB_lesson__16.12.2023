@@ -1,1 +1,1 @@
-Привет GitHub clear
+Привет GitHub
